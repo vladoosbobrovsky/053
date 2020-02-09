@@ -21,4 +21,4 @@ As for me -> this method do not working properly
 
 I created a response.varfile and all files are located in ``` /vagrant ```
 ### How to run it
-TO RUN MY SCRIPT please make sure that's you have ``` response.varfile ``` &&  ``` atlassian-confluence-7.3.1-x64.bin ``` at the project DIR
+TO RUN MY SCRIPT please make sure that's you have ``` response.varfile ``` &&  ``` atlassian-confluence-7.3.1-x64.bin ``` at the project DIR -> ```hometask_3```  or ```/vagrant```
